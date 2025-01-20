@@ -2,7 +2,7 @@
 
 <div display:"flex">
   <div display:"flex" >
-    <p>🔭 I’m currently working on SocialHalo</p>
+    <p>🔭 I’m currently working on Fintrack</p>
     <p>🌱 I’m currently learning Redis, Machine Learning</p>
     <p>🤝 I’m looking for help with Machine Learning</p>
     <p>💬 Ask me about Backend development using Node</p>
