@@ -25,7 +25,7 @@
 <h1>SKILLS</h1>
 <div align="center">
 <div style="display: flex;">
-  <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="71" style="width: 71px; height: 71px; margin-right: 82px; margin-bottom: 82px;" />
+  <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="71" style="width: 71px; height: 71px; margin-right: 100px; margin-bottom: 100px;" />
   <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="71" style="width: 71px; height: 71px; margin-right: 82px; margin-bottom: 82px;" />
   <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="71" style="width: 71px; height: 71px; margin-right: 82px; margin-bottom: 82px;" />
   <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="71" style="width: 71px; height: 71px; margin-right: 82px; margin-bottom: 82px;" />
