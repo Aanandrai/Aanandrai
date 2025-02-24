@@ -24,24 +24,26 @@
 # 💻 Tech Stack:
 <h1>SKILLS</h1>
 <div align="center">
-  <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="100" height="100" />
-  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="100" height="100" />
-  <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="100" height="100" />
-  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon"width="100" height="100" />
-  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="100" height="100" />
- <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="100" height="100" />
+<div style="display: flex;">
+  <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="71" style="width: 71px; height: 71px; margin-right: 62px; margin-bottom: 62px;" />
+  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="71" style="width: 71px; height: 71px; margin-right: 62px; margin-bottom: 62px;" />
+  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="71" style="width: 71px; height: 71px; margin-right: 62px; margin-bottom: 62px;" />
+  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="71" style="width: 71px; height: 71px; margin-right: 62px; margin-bottom: 62px;" />
+  <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="71" style="width: 71px; height: 71px; margin-right: 0px; margin-bottom: 62px;" />
 </div>
+  <br>
+  <div style="display: flex;">
+    <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="71" style="width: 71px; height: 71px; margin-right: 62px; margin-bottom: 0px;" />
+    <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="71" style="width: 71px; height: 71px; margin-right: 62px; margin-bottom: 0px;" />
+    <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="71" style="width: 71px; height: 71px; margin-right: 62px; margin-bottom: 0px;" />
+    <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="71" style="width: 71px; height: 71px; margin-right: 62px; margin-bottom: 0px;" /></div>
+
+
+
+  
+ 
 
 <br>
-
-<div align="center">
-  <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="100" height="100" />
-  <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="100" height="100" />
-  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="100" height="100" />
-  <img src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="icon" width="100" height="100" />
-  <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="100" height="100" />
-  <img src="https://techstack-generator.vercel.app/graphql-icon.svg" alt="icon" width="100" height="100" />
-</div>
 
 <!--x axis divider-->
 <img src="/assets/images/horizontal-divider-gradient.gif">
