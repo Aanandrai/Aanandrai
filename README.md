@@ -5,11 +5,11 @@
 
 <div display:"flex">
   <div display:"flex" >
-    <p>🔭 I’m currently working on **Automation** and **Mern**</p>
-    <p>🌱 I’m currently learning **Redis, AWS, Nginx ,DevOps**</p>
-    <p>🤝 I’m looking for help with **Advance and Scalable Backend Dev**</p>
-    <p>💬 Ask me about **Backend development**</p>
-    <p>📫 How to reach me: **Aanandrai.atwork@gmail.com**</p>
+    -- 🔭 I’m currently working on **Automation** and **Mern**
+    -- 🌱 I’m currently learning **Redis, AWS, Nginx ,DevOps**
+    -- 🤝 I’m looking for help with **Advance and Scalable Backend Dev**
+    -- 💬 Ask me about **Backend development**
+    -- 📫 How to reach me: **Aanandrai.atwork@gmail.com**
   </div>
   
 <br clear="both">
