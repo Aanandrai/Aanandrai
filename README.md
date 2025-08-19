@@ -3,15 +3,20 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aanandrai&label=Profile%20views&color=0e75b6&style=flat" alt="aanandrai" /> </p>
 
+
+ - 🔭 I’m currently working on **Automation** and **Mern**  
+    
+ - 🌱 I’m currently learning **Redis, AWS, Nginx ,DevOps**  
+    
+ - 🤝 I’m looking for help with **Advance and Scalable Backend Dev**  
+    
+ - 💬 Ask me about **Backend development**  
+    
+ - 📫 How to reach me: **Aanandrai.atwork@gmail.com**  
+    
+
+
 <div display:"flex">
-  <div display:"flex" >
-    -- 🔭 I’m currently working on **Automation** and **Mern**
-    -- 🌱 I’m currently learning **Redis, AWS, Nginx ,DevOps**
-    -- 🤝 I’m looking for help with **Advance and Scalable Backend Dev**
-    -- 💬 Ask me about **Backend development**
-    -- 📫 How to reach me: **Aanandrai.atwork@gmail.com**
-  </div>
-  
 <br clear="both">
 
   <div>
@@ -20,13 +25,16 @@
 </div>
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Aanand_rai) 
-
+<h3 align="left">Connect with me:</h3>
+<p align="left" padding="30">
+<a href="https://linkedin.com/in/Aanand_rai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aanand rai" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/sadest_guy" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="aarushagarwal" height="30" width="40" /></a>
+</p>
 <br>
 
 
 # 💻 Tech Stack:
-<div align="center">
+<div align="center" padding="50">
   <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="100" height="100" />
   <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="100" height="100" />
   <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon"width="100" height="100" />
